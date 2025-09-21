@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/692814109508506364/94ea229564674d75869830a492caef9f/artifacts
+end_time: 1758057472417
+entry_point_name: ''
+experiment_id: '692814109508506364'
+lifecycle_stage: active
+run_id: 94ea229564674d75869830a492caef9f
+run_name: spiffy-horse-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758057472110
+status: 3
+tags: []
+user_id: Lenovo
