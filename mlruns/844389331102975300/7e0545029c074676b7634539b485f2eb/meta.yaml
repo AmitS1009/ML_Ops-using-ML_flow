@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/Learnings/ML_Ops/ML_Ops-using-ML_flow/mlruns/844389331102975300/7e0545029c074676b7634539b485f2eb/artifacts
+end_time: 1758458135151
+entry_point_name: ''
+experiment_id: '844389331102975300'
+lifecycle_stage: active
+run_id: 7e0545029c074676b7634539b485f2eb
+run_name: calm-snail-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758458135067
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/Learnings/ML_Ops/ML_Ops-using-ML_flow/mlruns/844389331102975300/4b12196ef4e542f49683ac938729c7cb/artifacts
+end_time: 1758458135059
+entry_point_name: ''
+experiment_id: '844389331102975300'
+lifecycle_stage: active
+run_id: 4b12196ef4e542f49683ac938729c7cb
+run_name: learned-asp-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758458134968
+status: 3
+tags: []
+user_id: Lenovo

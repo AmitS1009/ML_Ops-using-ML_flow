@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/Learnings/ML_Ops/ML_Ops-using-ML_flow/mlruns/844389331102975300/db1e05eb59bb43268dd3fcab842283ea/artifacts
+end_time: 1758458135251
+entry_point_name: ''
+experiment_id: '844389331102975300'
+lifecycle_stage: active
+run_id: db1e05eb59bb43268dd3fcab842283ea
+run_name: bold-hawk-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758458135159
+status: 3
+tags: []
+user_id: Lenovo

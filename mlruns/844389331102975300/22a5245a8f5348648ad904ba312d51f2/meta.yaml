@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/Learnings/ML_Ops/ML_Ops-using-ML_flow/mlruns/844389331102975300/22a5245a8f5348648ad904ba312d51f2/artifacts
+end_time: 1758458135429
+entry_point_name: ''
+experiment_id: '844389331102975300'
+lifecycle_stage: active
+run_id: 22a5245a8f5348648ad904ba312d51f2
+run_name: crawling-duck-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758458135352
+status: 3
+tags: []
+user_id: Lenovo
